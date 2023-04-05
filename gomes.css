@@ -1,0 +1,13 @@
+img,p,ul{
+    float: left;
+}
+
+body{
+    background-color: #E6E6FA;
+}
+
+#banner{
+    border:5px solid purple;
+}
+
+
